@@ -1,0 +1,10 @@
+{
+  "Happy": {"key": "C Major", "progression": ["C", "G", "Am", "F"], "songs": ["Don't Stop Believin' \u2013 Journey", "Let It Be \u2013 The Beatles"]},
+  "Sad": {"key": "A Minor", "progression": ["Am", "F", "C", "G"], "songs": ["Zombie \u2013 The Cranberries", "The Scientist \u2013 Coldplay"]},
+  "Chill": {"key": "G Major", "progression": ["G", "D", "Em", "C"], "songs": ["Let Her Go \u2013 Passenger"]},
+  "Nostalgic": {"key": "A Minor", "progression": ["Am", "F", "C", "G"], "songs": ["Complicated \u2013 Avril Lavigne", "Africa \u2013 Toto"]},
+  "Hopeful": {"key": "G Major", "progression": ["G", "Em", "C", "D"], "songs": ["Stand By Me \u2013 Ben E. King", "Heart and Soul \u2013 Hoagy Carmichael"]},
+  "Tense": {"key": "A Minor", "progression": ["Am", "G", "F", "E"], "songs": ["Hit the Road Jack \u2013 Ray Charles", "Tequila \u2013 The Champs"]},
+  "Dreamy": {"key": "C Major", "progression": ["Cadd9", "G", "Am7", "Fmaj7"], "songs": ["Wonderwall \u2013 Oasis"]},
+  "Angry": {"key": "D Minor", "progression": ["Dm", "C", "Bb", "A"], "songs": ["Sultans of Swing \u2013 Dire Straits", "One More Cup of Coffee \u2013 Bob Dylan"]}
+}
