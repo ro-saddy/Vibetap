@@ -6,13 +6,13 @@ Vibetap is essentially a desktop tool for budding guitarists, its purpose being 
 
 <img width="901" height="569" alt="Screenshot 2026-11-22 at 10 07 03 PM" src="https://github.com/user-attachments/assets/3901c119-c7ef-4896-ba26-89a7324e55b1" />
 
-## ** Features**
+## **Features**
 
 - 5 mood buttons which are Happy, Sad, Chill, Romantic, Energetic.
 - Each mood shows its chord progressions as chord diagram images.
 - Example songs are listed under each progression.
 
-## ** Why I built it**
+## **Why I built it**
 
 When wanting to create my own song on the guitar, I wondered which chords to use if I wanted a happy, sad or energetic song, for example. I made this tool to solve this confusion- to create one minimalistic platform which tells what chords to play for what mood.
 
@@ -39,6 +39,6 @@ When wanting to create my own song on the guitar, I wondered which chords to use
 - One can search a song's name to find its mood and chord progression.
 - A browser and mobile version which makes it more accessible.
 
-## ** Built using**
+## **Built using**
 
 Python, Tkinter, Pillow
