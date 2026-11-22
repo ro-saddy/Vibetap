@@ -16,14 +16,14 @@ Vibetap is essentially a desktop tool for budding guitarists, its purpose being 
 
 When wanting to create my own song on the guitar, I wondered which chords to use if I wanted a happy, sad or energetic song, for example. I made this tool to solve this confusion- to create one minimalistic platform which tells what chords to play for what mood.
 
-## **How it works**
+##**How it works**
 
 - A dictionary maps each mood to a list of progressions. Each progression is a list of chords plus a list of songs.
 - A second dictionary maps each chord name to its image file in a folder.
 - Clicking a mood button clears the screen, then loops through that mood's progressions and shows each chord image and song.
 - The window and buttons are built with Tkinter, and Pillow loads and resizes the chord images.
 
-## **How to Run it**
+##**How to Run it**
 
 1. Install Python 3 and Pillow:
      pip install pillow
@@ -32,13 +32,13 @@ When wanting to create my own song on the guitar, I wondered which chords to use
     python mood_chords.py
 
 
-## **Possible improvements**
+##**Possible improvements**
 
 - Upon clicking a mood, one can also listen to the sound of a chord.
 - More moods and progressions can be added.
 - One can search a song's name to find its mood and chord progression.
 - A browser and mobile version which makes it more accessible.
 
-## ** Built using**
+##** Built using**
 
 Python, Tkinter, Pillow
