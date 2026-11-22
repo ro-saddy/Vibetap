@@ -1,4 +1,4 @@
-#**Vibetap**
+# **Vibetap**
 
 Vibetap is essentially a desktop tool for budding guitarists, its purpose being to help them make music in whatever genre or mood they wish. One simply has to select a mood from the menu of options and chord progressions of known songs in that mood would appear, helping the user to compose a song in their selected mood.
 
